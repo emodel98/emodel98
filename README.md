@@ -12,8 +12,8 @@
 
 <h3 align="center"><b>  ✨ Interests ✨ </b></h3>
 <p align="center">
-+ Recommender Systems
-+ NLP
+Recommender Systems</br>
+NLP
 </P>
 
 <!--
