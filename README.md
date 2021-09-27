@@ -12,8 +12,8 @@
 
 <h3 align="center"><b>  ✨ Interests ✨ </b></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/<Recommender Systems>-<Red>"/></a> &nbsp
-<img src="https://img.shields.io/badge/<NLP>-<Orange>"/></a> &nbsp
++ Recommender Systems
++ NLP
 </P>
 
 <!--
