@@ -8,6 +8,13 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
 </p>
 
+</br>
+
+<h3 align="center"><b>  ✨ Interests ✨ </b></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/<>-<Recommender Systems>-<Red>"/></a> &nbsp
+</P>
+
 <!--
 **emodel98/emodel98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
