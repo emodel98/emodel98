@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=blue"/></a>&nbsp
-
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
+</p>
 
 <!--
 **emodel98/emodel98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
