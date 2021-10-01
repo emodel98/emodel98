@@ -16,6 +16,9 @@ Recommender Systems</br>
 NLP
 </P>
 
+</br>
+<h3 align="center"><b> Here is my [CV](https://github.com/emodel98/emodel98/blob/main/표지원CV(영문).pdf)!</b></h3>
+
 <!--
 **emodel98/emodel98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
