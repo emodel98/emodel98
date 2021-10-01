@@ -21,7 +21,7 @@ NLP</br>
 
 
 
-[<div align=center><h3> Here is my CV </h3></div>](https://github.com/emodel98/emodel98/blob/main/Jiwon%20Pyo%20CV(ENG).pdf) 
+[<div align=center><h3> "Here is my CV !" </h3></div>](https://github.com/emodel98/emodel98/blob/main/Jiwon%20Pyo%20CV(ENG).pdf) 
 
 
 <!--
