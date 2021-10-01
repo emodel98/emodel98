@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 
@@ -17,8 +15,6 @@ Recommender Systems</br>
 NLP</br>
 </p>
 </br>
-</br>
-
 
 
 [<div align=center><h3> "Here is my CV !" </h3></div>](https://github.com/emodel98/emodel98/blob/main/Jiwon%20Pyo%20CV(ENG).pdf) 
