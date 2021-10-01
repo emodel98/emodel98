@@ -18,7 +18,7 @@ NLP</br>
 </p>
 
 
-Here is my [CV] (https://github.com/emodel98/emodel98/blob/main/표지원CV(영문).pdf) !
+Here is my [CV](https://github.com/emodel98/emodel98/blob/main/Jiwon%20Pyo%20CV(ENG).pdf) !
 
 
 
