@@ -1,4 +1,4 @@
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 
 <p align="center">
@@ -9,17 +9,17 @@
 
 ---------------------------------
 
-<h3 align="center"><b>  ✨ Interests ✨ </b></h3>
-<p align="center">
+<h3 align="left"><b>  ✨ Interests ✨ </b></h3>
+<p align="left">
 Recommender Systems</br>
 NLP
 </p>
 
 ---------------------------------
-[<div align=center><h3> "Here is my CV !" </h3></div>](https://github.com/emodel98/emodel98/blob/main/JiwonPyoCV(ENG).pdf) 
+[<div align=left><h3> "Here is my CV !" </h3></div>](https://github.com/emodel98/emodel98/blob/main/JiwonPyoCV(ENG).pdf) 
 
 ---------------------------------
-<p align="center"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Femodel98&count_bg=%23EBA5B3&title_bg=%23666666&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
+<p align="left"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Femodel98&count_bg=%23EBA5B3&title_bg=%23666666&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
 
 <!--
 **emodel98/emodel98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
