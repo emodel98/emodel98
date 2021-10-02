@@ -7,18 +7,19 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
 </p>
 
+---------------------------------
 
-</br>
 <h3 align="center"><b>  ✨ Interests ✨ </b></h3>
 <p align="center">
 Recommender Systems</br>
-NLP</br>
+NLP
 </p>
-</br>
 
-
+---------------------------------
 [<div align=center><h3> "Here is my CV !" </h3></div>](https://github.com/emodel98/emodel98/blob/main/JiwonPyoCV(ENG).pdf) 
 
+---------------------------------
+<p align="center"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Femodel98&count_bg=%23EBA5B3&title_bg=%23666666&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
 
 <!--
 **emodel98/emodel98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
