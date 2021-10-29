@@ -15,7 +15,7 @@ Recommender Systems</br>
 </p>
 
 ---------------------------------
-[<div align=left><h3> "Here is my CV !" </h3></div>](https://github.com/emodel98/emodel98/blob/main/JiwonPyoCV(ENG).pdf) 
+[<div align=left><h3> "Here is my CV !" </h3></div>](JiwonPyoCV(ENG)_.pdf) 
 
 ---------------------------------
 <p align="left"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Femodel98&count_bg=%23EBA5B3&title_bg=%23666666&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
