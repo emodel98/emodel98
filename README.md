@@ -11,7 +11,7 @@
 
 <h3 align="left"><b>  ✨ Interests ✨ </b></h3>
 <p align="left">
-Distributed Computing Systems, Recommender Systems</br>
+Distributed Computing Systems, Recommender Systems, Data science</br>
 </p>
 
 ---------------------------------
