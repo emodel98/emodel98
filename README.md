@@ -13,6 +13,12 @@
 <p align="left">
 Distributed Computing Systems, Recommender Systems</br>
 </p>
+---------------------------------
+
+<h3 align="left"><b>  특허출원 </b></h3>
+<p align="left">
+1. 감성 키워드를 이용한 가게 추천 방법 </br>
+</p>
 
 ---------------------------------
 [<div align=left><h3> "Here is my CV !" </h3></div>](JiwonPyoCV(ENG)_.pdf) 
