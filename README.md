@@ -13,6 +13,7 @@
 <p align="left">
 Distributed Computing Systems, Recommender Systems</br>
 </p>
+
 ---------------------------------
 
 <h3 align="left"><b>  특허출원 </b></h3>
