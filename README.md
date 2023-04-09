@@ -15,6 +15,12 @@
 <p align="left">
 Distributed Computing Systems, Recommender Systems, Data science</br>
 </p>
+---------------------------------
+
+<h3 align="left"><b>  연구실적 </b></h3>
+<p align="left">
+[1. Linux Perf를 이용한 슈퍼컴퓨터 CPU/메모리 관련 시스템 이벤트 수집 방안]() </br>
+</p>
 
 ---------------------------------
 
