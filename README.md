@@ -1,5 +1,4 @@
-<h3 align="left"><b>🛠 Tech Stack 🛠</b></h3>
-</br>
+# 🛠 Tech Stack 🛠
 
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&&logo=Python&logoColor=white"/></a> &nbsp
@@ -11,21 +10,20 @@
 
 ---------------------------------
 
-<h3 align="left"><b>  ✨ Interests ✨ </b></h3>
+# ✨ Interests ✨
 <p align="left">
 Distributed Computing Systems, Recommender Systems, Data science</br>
 </p>
 
 ---------------------------------
 
-<h3 align="left"><b>  연구실적 </b></h3>
+# 연구실적 
 
 
 [<div align=left> 1. Linux Perf를 이용한 슈퍼컴퓨터 CPU/메모리 관련 시스템 이벤트 수집 방안</div>](https://github.com/emodel98/emodel98/first_page_Collecting_System_wide_CPU:Memory_Events_using_Linux_Perf_tool_in_HPC.pdf)
 
 ---------------------------------
-
-<h3 align="left"><b>  특허출원 </b></h3>
+# 특허출원 
 <p align="left">
 1. 감성 키워드를 이용한 가게 추천 방법 </br>
 </p>
