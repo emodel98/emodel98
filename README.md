@@ -19,7 +19,7 @@ Distributed Computing Systems, Recommender Systems, Data science</br>
 
 <h3 align="left"><b>  연구실적 </b></h3>
 <p align="left">
-[1. Linux Perf를 이용한 슈퍼컴퓨터 CPU/메모리 관련 시스템 이벤트 수집 방안]() </br>
+1. Linux Perf를 이용한 슈퍼컴퓨터 CPU/메모리 관련 시스템 이벤트 수집 방안(https://github.com/emodel98/emodel98/첫페이지LinuxPerf를이용한슈퍼컴퓨터CPU메모리관련.pdf) </br>
 </p>
 
 ---------------------------------
