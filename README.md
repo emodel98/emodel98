@@ -20,7 +20,7 @@ Distributed Computing Systems, Recommender Systems, Data science</br>
 # 연구실적 
 
 
-### [1. Linux Perf를 이용한 슈퍼컴퓨터 CPU/메모리 관련 시스템 이벤트 수집 방안] (https://github.com/emodel98/emodel98/first_page_Collecting_System_wide_CPU:Memory_Events_using_Linux_Perf_tool_in_HPC.pdf)
+### [1. Linux Perf를 이용한 슈퍼컴퓨터 CPU/메모리 관련 시스템 이벤트 수집 방안](http://github.com/emodel98/emodel98/first_page_Collecting_System_wide_CPU:Memory_Events_using_Linux_Perf_tool_in_HPC.pdf)
 
 ---------------------------------
 # 특허출원 
@@ -29,7 +29,7 @@ Distributed Computing Systems, Recommender Systems, Data science</br>
 </p>
 
 ---------------------------------
-### [ "Here is my CV !"](https://github.com/emodel98/emodel98/blob/main/JiwonPyoCV(ENG)_(220927ver).pdf)
+### [ "Here is my CV !"](http://github.com/emodel98/emodel98/blob/main/JiwonPyoCV(ENG)_(220927ver).pdf)
 
 ---------------------------------
 <p align="left"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Femodel98&count_bg=%23EBA5B3&title_bg=%23666666&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
