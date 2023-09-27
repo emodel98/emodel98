@@ -21,7 +21,7 @@ Recommender Systems, Data science, Distributed Computing Systems</br>
 
 
 ### [1. Linux Perf를 이용한 슈퍼컴퓨터 CPU/메모리 관련 시스템 이벤트 수집 방안](http://github.com/emodel98/emodel98/blob/main/first_page_Collecting_System_wide_CPU:Memory_Events_using_Linux_Perf_tool_in_HPC.pdf)
-### [2. APGT: Improving Personal and Global Temporal preferences news recommendation system by adding Additional user information](http://github.com/emodel98/emodel98/blob/main/first_page_Collecting_System_wide_CPU:Memory_Events_using_Linux_Perf_tool_in_HPC.pdf)
+### [2. APGT: Improving Personal and Global Temporal preferences news recommendation system by adding Additional user information](http://github.com/emodel98/emodel98/blob/main/APGT.pdf)
 ---------------------------------
 # 특허출원 
 <p align="left">
